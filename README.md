@@ -7,9 +7,9 @@ Ten repozytorium zawiera **przykładowy kod źródłowy aplikacji** napisanej w 
 ## Główne funkcje aplikacji
 
 -**System rejestracji i logowania użytkowników**
-- ⚖**Obliczanie indywidualnego zapotrzebowania kalorycznego** na podstawie wieku, wzrostu, masy ciała i poziomu aktywności
+- **Obliczanie indywidualnego zapotrzebowania kalorycznego** na podstawie wieku, wzrostu, masy ciała i poziomu aktywności
 - **CRUD przepisów** – tworzenie, edycja, usuwanie przepisów
-- 👥 **Role użytkowników**:
+- **Role użytkowników**:
   - **Admin** – pełen dostęp do zarządzania użytkownikami, przepisami i systemem
   - **User** – dostęp do planowania diety i własnych przepisów
   - **Gość** – ograniczony dostęp tylko do autoryzacji oraz przukładowej strony glównej
@@ -23,7 +23,7 @@ Ten repozytorium zawiera **przykładowy kod źródłowy aplikacji** napisanej w 
 ![strona-glowna](https://github.com/user-attachments/assets/f5d1d9d1-2363-4e35-84ee-38db2d38516d)
 
 
-### ✅ Wymagania:
+### Wymagania:
 - PHP >= 7.4
 - Composer
 - MySQL lub MariaDB
