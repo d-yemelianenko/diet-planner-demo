@@ -18,9 +18,10 @@ Ten repozytorium zawiera **przykładowy kod źródłowy aplikacji** napisanej w 
 
 > Poniżej przykładowe zrzuty ekranu działającej aplikacji (wersja prywatna):
 
-![Zrzut ekranu - panel logowania](screenshots/login.png)
-![Zrzut ekranu - strona glówna](screenshots/main.png)
-![Zrzut ekranu - formularz kalkulatora](screenshots/calculator.png)
+![Formularz-kalkulatora](https://github.com/user-attachments/assets/589e59ff-0be3-4e76-8a50-7ef8907a47df)
+![Moje_przepisy](https://github.com/user-attachments/assets/51dd4f42-e62a-4fec-97dc-cf2bc53ac7f0)
+![strona-glowna](https://github.com/user-attachments/assets/f5d1d9d1-2363-4e35-84ee-38db2d38516d)
+
 
 ### ✅ Wymagania:
 - PHP >= 7.4
