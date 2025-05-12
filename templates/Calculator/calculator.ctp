@@ -39,6 +39,17 @@
                 'required' => true
             ]) ?>
         </div>
+        <div class="input-group">
+            <?= $this->Form->control('gender', [
+                'label' => '🧑‍⚕️ Płeć',
+                'type' => 'select',
+                'options' => [
+                    'male' => 'Mężczyzna',
+                    'female' => 'Kobieta'
+                ],
+                'required' => true
+            ]) ?>
+        </div>
 
         <?= $this->Form->button(__($calculation->id ? '🔄 Zaktualizuj' : '⚡ Oblicz'), ['class' => 'calculate-button']) ?>
         <?= $this->Form->end() ?>
