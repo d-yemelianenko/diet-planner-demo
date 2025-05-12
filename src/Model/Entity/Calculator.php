@@ -7,11 +7,12 @@ use Cake\ORM\Entity;
 class Calculator extends Entity
 {
     protected array $_accessible = [
+        'user_id' => true,
         'height' => true,
         'weight' => true,
         'age' => true,
         'gender' => true,
         'bmi' => true,
-        'bmr' => true
+        'caloric_needs' => true
     ];
 }
